@@ -1,11 +1,15 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"Color Highlight",
 		"Emmet",
 		"ERB Snippets",
 		"Git",

@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = rafael.palonso@gmail.com
-	name = Rafael Alonso
+	email = Alonso
+	name = Rafael
