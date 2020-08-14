@@ -47,5 +47,10 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = Alonso
-	name = Rafael
+	email = rafael.palonso@gmail.com
+	name = Rafael Alonso
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

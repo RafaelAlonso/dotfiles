@@ -1,16 +1,30 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"CSS Grid Snippets",
+		"CSS Snippets",
+		"Emmet",
+		"ERB Snippets",
+		"FileIcons",
+		"Flexbox Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"MagicPython",
+		"Material Monokai",
+		"Materialize",
+		"Package Control",
+		"SASS Snippets",
+		"SCSS",
+		"SCSS Snippets Complete",
+		"SublimeLinter",
+		"SublimeLinter-rubocop"
+	]
 }
